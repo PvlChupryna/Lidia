@@ -11,9 +11,9 @@
             </p>
             <h3>Description</р>
             <div>
-                <p>A simple landing page.</p>
-                <p>Practice in layout design.</p>
-                <p>No responsive design included.</p>
+                *<p>A simple landing page.</p>
+                **<p>Practice in layout design.</p>
+                * <p>No responsive design included.</p>
             </div>
         </td>
         <td style="margin-left: 200px;">
