@@ -11,8 +11,8 @@
             </p>
             <h3>Description:</h3>
                 <hr>
-            <div>
                 + A simple landing page.
+            <div>
                 +<p>A simple landing page.</p>
                 + <p>Practice in layout design.</p>
                 <p>No responsive design included.</p>
