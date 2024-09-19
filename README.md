@@ -10,6 +10,7 @@
               <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
             </p>
             <h3>Description</р>
+                ___
             <div>
                 *<p>A simple landing page.</p>
                 **<p>Practice in layout design.</p>
