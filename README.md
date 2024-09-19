@@ -11,12 +11,11 @@
             </p>
             <h3>Description:</h3>
                 <hr>
-                + A simple landing page.
-            <div>
-                +<p>A simple landing page.</p>
-                + <p>Practice in layout design.</p>
-                <p>No responsive design included.</p>
-            </div>
+            <ul>
+                <li>A simple landing page.</li>
+                <li>Practice in layout design.</li>
+                <li>No responsive design included.</li>
+            </ul>
         </td>
         <td style="margin-left: 200px;">
            <a href="https://2books.su/reader/books/to-kill-a-mockingbird-adapted/" target="_blank" rel="noopener noreferrer">
