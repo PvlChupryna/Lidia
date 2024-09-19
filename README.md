@@ -10,11 +10,11 @@
               <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
             </p>
             <h3>Description</р>
-            <p>
-                A simple landing page.
-                Practice in layout design.
-                No responsive design included.
-            </p>
+            <div>
+                <p>A simple landing page.</p>
+                <p>Practice in layout design.</p>
+                <p>No responsive design included.</p>
+            </div>
         </td>
         <td style="margin-left: 200px;">
             <img style="margin-left: 100%;" width="200" src="./docs/IMG/Lidia-demo.jpeg" alt="demo">
