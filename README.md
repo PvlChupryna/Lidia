@@ -9,7 +9,7 @@
                 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
               <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
             </p>
-            <p>Description</p>
+            <h3>Description</h3>
                 <hr>
             <div>
                 <p>A simple landing page.</p>
