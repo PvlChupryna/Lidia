@@ -3,7 +3,7 @@
 
 <table>
     <tr>
-        <td style="vertical-align: top;">
+        <td valign="top" style="vertical-align: top;">
             <h3>Technologies</h3>
             <p>
               <img alt="Static Badge" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-        badge&logo=html5&logoColor=white&logoSize=auto">
