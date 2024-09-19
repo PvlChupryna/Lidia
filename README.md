@@ -17,7 +17,7 @@
             </div>
         </td>
         <td style="margin-left: 200px;">
-            [(./docs/IMG/Lidia-demo.jpeg)](https://2books.su/reader/books/to-kill-a-mockingbird-adapted/)
+            [src="./docs/IMG/Lidia-demo.jpeg")](https://2books.su/reader/books/to-kill-a-mockingbird-adapted/)
 <!--             <img style="margin-left: 300px;" width="200" src="./docs/IMG/Lidia-demo.jpeg" alt="demo"> -->
         </td>
     </tr>
