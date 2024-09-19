@@ -17,6 +17,9 @@
             </div>
         </td>
         <td style="margin-left: 200px;">
+            <a href="[https://example.com](https://2books.su/reader/books/to-kill-a-mockingbird-adapted/)" target="_blank">
+                 <img style="margin-left: 300px;" width="150" src="./docs/IMG/Lidia-demo.jpeg" alt="demo">
+            </a>
             [![](./docs/IMG/Lidia-demo.jpeg)](https://2books.su/reader/books/to-kill-a-mockingbird-adapted/)
 <!--             <img style="margin-left: 300px;" width="200" src="./docs/IMG/Lidia-demo.jpeg" alt="demo"> -->
         </td>
