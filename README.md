@@ -17,7 +17,7 @@
             </div>
         </td>
         <td style="margin-left: 200px;">
-            <img style="margin-left: 100%;" width="200" src="./docs/IMG/Lidia-demo.jpeg" alt="demo">
+            <img style="margin-left: 300px;" width="200" src="./docs/IMG/Lidia-demo.jpeg" alt="demo">
         </td>
     </tr>
 </table>
